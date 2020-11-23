@@ -1,0 +1,2 @@
+Using AJAX you can load content and place into selected element.
+AJAX stands for Asynchronous Javascript and XML
