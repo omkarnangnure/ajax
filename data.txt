@@ -3,5 +3,5 @@
 
 
 
-AJAX stands for <i> Asynchronous</i> Javascript and XML
+AJAX stands for <i> Asynchronous</i> Javascript and XML.
 </pre>
